@@ -1,1 +1,2 @@
-# class21_isTouchingbounceOff
+# collisionAlgorithm
+Algorithm to detect collision between two objects
